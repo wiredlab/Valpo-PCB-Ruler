@@ -1,5 +1,6 @@
 # backup files
 *.bak
+*-backups/
 # export files for BOM
 *.csv
 *.tsv
